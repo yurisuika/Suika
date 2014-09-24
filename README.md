@@ -10,10 +10,6 @@ Based on the the Deshou Composition, a lighter incarnation.
 
 Uses HaxrCorp S8.
 
-## Suika STEAM (Linux)
-
-Uses Cure.se (as Steam on Linux is broken in regards to bitmap fonts AFAIK).
-
 ## Suika GTK
 
 A work-in-progress GTK+ and GTK+ 3 theme.
